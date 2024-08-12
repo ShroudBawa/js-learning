@@ -20,5 +20,5 @@ let isLoggedIn = false
 
 // object 
 
-console.log(typeof null) // output will be coming as Object
-console.log(typeof undefined) // output will be coming as undefined
+console.log(typeof age) // output will be coming as Object
+console.log(typeof undefined) // output will be coming as undefined. // Null is an object 
